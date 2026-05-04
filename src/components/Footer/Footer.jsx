@@ -19,8 +19,8 @@ const Footer = () => {
                 </div>
                 <div className='footer-section'>
                     <h4>ติดต่อเรา</h4>
-                    <p>อีเมล์: </p>
-                    <p>โทร: </p>
+                    <p>อีเมล์: contact@myshop.com</p>
+                    <p>โทร: 02-123-4567</p>
                 </div>
             </div>
             <div className='footer-bottom'>
